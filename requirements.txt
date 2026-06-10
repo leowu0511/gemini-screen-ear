@@ -1,0 +1,5 @@
+websockets>=12.0
+pyaudiowpatch>=0.2.12
+mss>=10.2.0
+Pillow>=10.0.0
+PyQt6>=6.6.0
