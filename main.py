@@ -84,7 +84,7 @@ WS_URL = (
 SESSION_HANDLE_FILE = os.path.join(tempfile.gettempdir(), "gemini_live_session_handle.txt")
 SESSION_HANDLE_MAX_AGE = 300.0  # 秒；超過此年紀的 handle 視為過期，改開全新 session
 
-TARGET_SAMPLE_RATE = 16000
+TARGET_SAMPLE_RATE = 48000
 SAMPLE_WIDTH = 2
 AUDIO_CHUNK_MS = 100
 
